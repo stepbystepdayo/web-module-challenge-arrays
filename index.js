@@ -63,7 +63,7 @@ function is31Flavors(array){
    if(array.length === 31){
        return true;
    }
-   return false;
+   return false
 }
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
@@ -78,7 +78,7 @@ Your function should add the flavor to the front of the array and return the res
 
 For example addFlavor("Rainbow Sherbert", originalFlavors) should return ["Rainbow Sherbert", "Banana Nut Fudge",..."Vanilla Burnt Almond"] */ 
 
-function addFlavor(/*your code here*/){
+function addFlavor(){
    /*your code here*/
 }
 
